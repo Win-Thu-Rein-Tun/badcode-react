@@ -1,0 +1,78 @@
+import { people01,people02,people03,facebook,twitter,instagram,linkedin } from "../assets"
+
+const Data = [
+    {
+      id:1,
+      image: people01,
+      title: 'Web Developer',
+      time: 'Now',
+      location: 'Canda',
+      desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
+      company: 'Simple Company',
+    },
+    {
+      id:2,
+      image: people02,
+      title: 'Software Engineer',
+      time: 'Now',
+      location: 'American',
+      desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
+      company: 'Simple Company',
+    },
+    {
+      id:3,
+      image: people03,
+      title: 'Desingner',
+      time: 'Now',
+      location: 'England',
+      desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
+      company: 'Simple Company',
+    },
+    {
+      id:4,
+      image: facebook,
+      title: 'Programmer',
+      time: 'Now',
+      location: 'Japan',
+      desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
+      company: 'Simple Company',
+    },
+    {
+      id:5,
+      image: instagram,
+      title: 'Cloud',
+      time: 'Now',
+      location: 'Singapore',
+      desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
+      company: 'Simple Company',
+    },
+    {
+      id:6,
+      image: twitter,
+      title: 'Product Manager',
+      time: 'Now',
+      location: 'South Korea',
+      desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
+      company: 'Simple Company',
+    },
+    {
+      id:7,
+      image: linkedin,
+      title: 'Web Developer',
+      time: 'Now',
+      location: 'Canda',
+      desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
+      company: 'Simple Company',
+    },
+    {
+      id:8,
+      image: people01,
+      title: 'Web Developer',
+      time: 'Now',
+      location: 'Canda',
+      desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
+      company: 'Simple Company',
+    },
+  ]
+
+export { Data }
